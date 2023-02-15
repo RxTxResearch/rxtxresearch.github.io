@@ -93,7 +93,6 @@ Commits listed from [repository on GitLab](https://gitlab.com/gromacs/gromacs):
         - loval variable hides parameter
 
 - commit [`ddbea6649b2f2ad278a715f3a438d5c161be7283`](https://gitlab.com/gromacs/gromacs/-/commit/ddbea6649b2f2ad278a715f3a438d5c161be7283): Removed debugging code in pull utilities
-
 - commit [`28acfd1164dd14c5a1ef2aa85f05744ce4a7cd13`](https://gitlab.com/gromacs/gromacs/-/commit/28acfd1164dd14c5a1ef2aa85f05744ce4a7cd13): Fix building on Solaris with GCC
 
     ??? note
