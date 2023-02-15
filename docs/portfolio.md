@@ -83,6 +83,9 @@ Description: [home page](https://www.gromacs.org/), [Wikipedia page](https://en.
 
 Commits listed from [repository on GitLab](https://gitlab.com/gromacs/gromacs):
 
+- commit [`1b9e69bb160f3ee494413d0c45e1c7be75b5b348`](https://gitlab.com/gromacs/gromacs/-/commit/1b9e69bb160f3ee494413d0c45e1c7be75b5b348): Renamed global index type to Index to avoid shadowing
+- commit [`0c9d3ec547e0581b7dc9dbe784e9eeb839453749`](https://gitlab.com/gromacs/gromacs/-/commit/0c9d3ec547e0581b7dc9dbe784e9eeb839453749): Renamed Index enum to AtomIndex to avoid shadowing
+- commit [`32d2d3523967b89de6e8acc6bfacf6a8ae55b37b`](https://gitlab.com/gromacs/gromacs/-/commit/32d2d3523967b89de6e8acc6bfacf6a8ae55b37b): Renamed real enum to realnum to avoid shadowing
 - commit [`24b0f57aafb067abac9a2a2086d4b98b9d23a305`](https://gitlab.com/gromacs/gromacs/-/commit/24b0f57aafb067abac9a2a2086d4b98b9d23a305): Renamed variables that hide variables from outer scope
 
     ??? note
