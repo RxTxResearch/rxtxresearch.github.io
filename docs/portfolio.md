@@ -101,6 +101,16 @@ Description: [home page](https://www.gromacs.org/), [Wikipedia page](https://en.
 
 Commits listed from [repository on GitLab](https://gitlab.com/gromacs/gromacs):
 
+- commit [`18d347fb0451242eec08a7c02286c6045e93c1d5`](https://gitlab.com/gromacs/gromacs/-/commit/18d347fb0451242eec08a7c02286c6045e93c1d5):  Cleaned up docs to use |Gromacs| substitution consistently and where appropriate
+
+    ??? note
+        The substitution doesn't work in preformatted source code and in links, so I avoided using it in these cases and fixed existing cases of wrong usage.
+
+- commit [`8cadd7d248c88c2efc9f3e01b4ffd139cf395376`](https://gitlab.com/gromacs/gromacs/-/commit/8cadd7d248c88c2efc9f3e01b4ffd139cf395376): Renamed lambda parameters to avoid shadowing
+- commit [`98a2339608e7250376fb9682797edb8c178a3450`](https://gitlab.com/gromacs/gromacs/-/commit/98a2339608e7250376fb9682797edb8c178a3450): Renamed type parameter of SelectionTreeElement class constructor to elemType to avoid shadowing
+- commit [`3655b81c27d41b85c542af0b5067f57fd0a2874b`](https://gitlab.com/gromacs/gromacs/-/commit/3655b81c27d41b85c542af0b5067f57fd0a2874b): Renamed gmx_hw_info_t struct constructor parameters to avoid shadowing
+- commit [`32255f4f818ce8d5cd7d0de70b11ac3c6698de8a`](https://gitlab.com/gromacs/gromacs/-/commit/32255f4f818ce8d5cd7d0de70b11ac3c6698de8a): Renamed tMPI_Thread_start function to avoid shadowing the struct
+- commit [`92aa6639f9d0b122a50ab50853499c26ae3895f0`](https://gitlab.com/gromacs/gromacs/-/commit/92aa6639f9d0b122a50ab50853499c26ae3895f0): Renamed gmx_rmpbc function to avoid shadowing the struct
 - commit [`1b9e69bb160f3ee494413d0c45e1c7be75b5b348`](https://gitlab.com/gromacs/gromacs/-/commit/1b9e69bb160f3ee494413d0c45e1c7be75b5b348): Renamed global index type to Index to avoid shadowing
 - commit [`0c9d3ec547e0581b7dc9dbe784e9eeb839453749`](https://gitlab.com/gromacs/gromacs/-/commit/0c9d3ec547e0581b7dc9dbe784e9eeb839453749): Renamed Index enum to AtomIndex to avoid shadowing
 - commit [`32d2d3523967b89de6e8acc6bfacf6a8ae55b37b`](https://gitlab.com/gromacs/gromacs/-/commit/32d2d3523967b89de6e8acc6bfacf6a8ae55b37b): Renamed real enum to realnum to avoid shadowing
