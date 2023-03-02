@@ -77,6 +77,24 @@ Commits listed from [repository on GitHub](https://github.com/fmtlib/fmt):
 - commit [`f7aedc5fc4893fc627a2c0854f78a25b89214c5c`](https://github.com/fmtlib/fmt/commit/f7aedc5fc4893fc627a2c0854f78a25b89214c5c): Fix shared build on Solaris
 - commit [`c2e84ee9cced1d969276cf87c1b857a9aabedcd0`](https://github.com/fmtlib/fmt/commit/c2e84ee9cced1d969276cf87c1b857a9aabedcd0): Fix FormatTest.StrError on Solaris
 
+## FreeBSD
+
+Description: [home page](https://www.freebsd.org/), [Wikipedia page](https://en.wikipedia.org/wiki/FreeBSD).
+
+Commits listed from [doc repository on FreeBSD cgit](https://cgit.freebsd.org/doc/):
+
+- commit [`17ca76d847606c99ffebad98b9e5636a26b6524b`](https://cgit.freebsd.org/doc/commit/?id=17ca76d847606c99ffebad98b9e5636a26b6524b): Clean extra whitespace in TOML files
+
+    ??? note
+        Submitted by:   Vedran Miletić <vedran@miletic.net>  
+        Pull Request:   <https://github.com/freebsd/freebsd-doc/pull/108>
+
+- commit [`6cae6054f814acd672a4f443a4b8d727b4ee4863`](https://cgit.freebsd.org/doc/commit/?id=6cae6054f814acd672a4f443a4b8d727b4ee4863): Fix broken links to support - bugreports section from commercial
+
+    ??? note
+        Submitted by:   Vedran Miletić <vedran@miletic.net>  
+        Pull Request:   <https://github.com/freebsd/freebsd-doc/pull/109>
+
 ## GROMACS
 
 Description: [home page](https://www.gromacs.org/), [Wikipedia page](https://en.wikipedia.org/wiki/GROMACS).
