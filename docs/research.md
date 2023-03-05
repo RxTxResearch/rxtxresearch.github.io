@@ -81,7 +81,7 @@ While Linux is the primary platform of the modern cloud and supercomputing, many
 
 ##### Core team
 
-* [Dr. Vedran Miletić](https://vedran.miletic.net/) ([GitHub](https://github.com/vedranmiletic), [LinkedIn](https://www.linkedin.com/in/vedranmiletic/), [Twitter](https://twitter.com/vedranmiletic))
+* [Dr. Vedran](https://vedran.miletic.net/) [Miletić](https://group.miletic.net/) ([GitHub](https://github.com/vedranmiletic), [LinkedIn](https://www.linkedin.com/in/vedranmiletic/), [Twitter](https://twitter.com/vedranmiletic))
 * [Dr. Davide Mercadante](https://lab.mercadante.net/) ([GitHub](https://github.com/mercadde), [LinkedIn](https://www.linkedin.com/in/davide-mercadante-274b86113/), [Twitter](https://twitter.com/DavideMercadan2))
 * [Patrik Nikolić](https://nikoli.ch/) ([GitHub](https://github.com/patrik-nikolic), [LinkedIn](https://www.linkedin.com/in/patrik-nikolic-8aa48310a), [Twitter](https://twitter.com/patriknikolic))
 * [Luka Vretenar](https://luka.vretenar.pro/) ([GitHub](https://github.com/lvretenar), [LinkedIn](https://www.linkedin.com/in/luka-vretenar-5137473b/))
