@@ -33,6 +33,9 @@ theme:
       toggle:
         icon: material/lightbulb-outline
         name: Switch to light mode
+  font:
+    text: IBM Plex Sans
+    code: IBM Plex Mono
 plugins:
   - search
   - social
