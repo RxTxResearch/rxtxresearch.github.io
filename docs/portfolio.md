@@ -1203,3 +1203,11 @@ Commits listed from [repository on GitLab](https://gitlab.com/rxdock/rxdock):
 - commit [`5d420d3190664db2c17722e9bd608d0b205dcc92`](https://gitlab.com/rxdock/rxdock/-/commit/5d420d3190664db2c17722e9bd608d0b205dcc92): Added workaround for empty parameter strings
 - commit [`8c7bd8363d8e8db51608480430cb12df6a8ef53c`](https://gitlab.com/rxdock/rxdock/-/commit/8c7bd8363d8e8db51608480430cb12df6a8ef53c): Fixed compilation of tests
 - commit [`8933bcfc584591dc9461dc0d1e382de23a9128d2`](https://gitlab.com/rxdock/rxdock/-/commit/8933bcfc584591dc9461dc0d1e382de23a9128d2): Fixed compilation of executable programs and library
+
+## systemd
+
+Description: [home page](https://systemd.io/), [Wikipedia page](https://en.wikipedia.org/wiki/Systemd).
+
+Commits listed from [repository on GitHub](https://github.com/systemd/systemd):
+
+- commit [`ab59f4123a6f9c32953e522cc9afc5fc610d59ca`](https://github.com/systemd/systemd/commit/ab59f4123a6f9c32953e522cc9afc5fc610d59ca): timedatectl: trim non-local RTC warning to 80 chars wide
