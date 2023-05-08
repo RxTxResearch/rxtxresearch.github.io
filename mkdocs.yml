@@ -3,9 +3,9 @@ site_description: >-
    RxTx offers consulting services for scientific software, including
    development, testing, documentation writing, and deployment.
 site_author: Vedran Miletić
-site_url: 'https://www.rxtx.tech/'
+site_url: 'https://rxtxresearch.github.io/'
 copyright: >-
-  Copyright 2019 – 2023, RxTx. All rights reserved. <a href="#__consent">Change
+  Copyright 2019 – 2022, RxTx. All rights reserved. <a href="#__consent">Change
   cookie settings</a>.
 theme:
   name: material
