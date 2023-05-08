@@ -136,28 +136,3 @@ We held talks about [RxDock](https://rxdock.gitlab.io/) at [University of Auckla
 ### University of Rijeka Department of Biotechnology (14th February 2020)
 
 <iframe src="https://www.youtube.com/embed/0GuQMdhOQVA" title="YouTube video player" style="border: 1px solid black; width: 100%; height: 25rem" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-## Contact
-
-For inquiries please reach out to us by e-mail at <info@rxtx.tech> or via the contact form below.
-
-<form action="https://formspree.io/f/xdovkkwr" method="POST">
-    <p>
-        <label for="name">Name</label><br>
-        <input type="text" name="name" class="md-input md-input--stretch" style="color: var(--md-default-fg-color); background-color: var(--md-default-bg-color)" required>
-    </p>
-    <p>
-        <label for="email">Email</label><br>
-        <input type="email" name="email" class="md-input md-input--stretch" style="color: var(--md-default-fg-color); background-color: var(--md-default-bg-color)" required>
-    </p>
-    <p>
-        <label for="subject">Subject</label><br>
-        <input type="text" name="subject" class="md-input md-input--stretch" style="color: var(--md-default-fg-color); background-color: var(--md-default-bg-color)" required>
-    </p>
-    <p>
-        <label for="message">Message</label><br>
-        <textarea name="message" class="md-input md-input--stretch" style="color: var(--md-default-fg-color); background-color: var(--md-default-bg-color); height: 7rem; outline: none; resize: none" required></textarea>
-    </p>
-    <input type="text" name="_gotcha" style="display: none">
-    <button type="submit" class="md-button md-button--primary">Send</button>
-</form>
