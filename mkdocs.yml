@@ -12,8 +12,6 @@ theme:
   custom_dir: overrides
   features:
     - announce.dismiss
-    - navigation.instant
-    - navigation.tabs
     - navigation.top
     - toc.follow
   logo: images/rxtx-symbol-white.svg
@@ -68,7 +66,3 @@ extra:
       name: RxTx on GitLab
 markdown_extensions:
   - admonition
-  - attr_list
-  - meta
-  - pymdownx.details
-  - pymdownx.superfences
