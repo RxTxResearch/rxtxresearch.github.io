@@ -9,6 +9,14 @@ hide:
 
 > RxTx Research is advancing open-source scientific software for biochemical and pharmaceutical applications.
 
+!!! success
+    RxTx Research completed its mission in 2022.
+
+    * If you are looking for business development services, please check out [BioRX Partners](https://www.biorxpartners.com/).
+    * If you are looking for scientific software consulting services, please check out [Miletic](https://www.miletic.net/).
+
+    This page will be kept as-is for historical purposes.
+
 ## Motivation
 
 RxTx Research wants to use the latest computational biochemical and biophysical scientific findings to develop the next-generation open-source scientific software for academic and industrial usage.
