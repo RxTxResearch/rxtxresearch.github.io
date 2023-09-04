@@ -139,8 +139,8 @@ We held talks about [RxDock](https://rxdock.gitlab.io/) at [University of Auckla
 
 ### University of Auckland School of Chemical Sciences (22nd May 2020)
 
-<iframe src="https://www.youtube.com/embed/NH6XSRdezyI" title="YouTube video player" style="border: 1px solid black; width: 100%; height: 25rem" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/NH6XSRdezyI" title="YouTube video player" style="border: 1px solid black; width: 100%; height: 25rem" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### University of Rijeka Department of Biotechnology (14th February 2020)
 
-<iframe src="https://www.youtube.com/embed/0GuQMdhOQVA" title="YouTube video player" style="border: 1px solid black; width: 100%; height: 25rem" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/0GuQMdhOQVA" title="YouTube video player" style="border: 1px solid black; width: 100%; height: 25rem" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
