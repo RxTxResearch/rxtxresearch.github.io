@@ -69,7 +69,7 @@ Since it is open source by default you can use it for free and start using it im
 
 You are an active contributor and an active part of a community that will iterate on the existing version of RxDock and makes it better, more feature-rich, and more optimized with each commit. You can also fork your version of RxDock and make an independent version that will make your vision of the high-throughput virtual screening (HTVS) package come true.
 
-We can not wait to see what will the community build around RxDock and how it will be integrated into various workflows. In particular, we plan to offer high-throughput virtual screening software as a service using RxDock as its engine in the future. [Contact us](index.md#contact-us) to be notified when it happens.
+We can not wait to see what will the community build around RxDock and how it will be integrated into various workflows. In particular, we plan to offer high-throughput virtual screening software as a service using RxDock as its engine in the future.
 
 ## Projects
 
